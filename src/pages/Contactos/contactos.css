@@ -1,0 +1,20 @@
+.contactTitle{
+    color: #214B8B;
+    font-size: 26px;
+}
+
+.contactParagraph{
+    color: black;
+    font-weight: bold;
+}
+
+.contactTitleSede{
+    font-weight: bold;
+
+}
+
+.contactContainer{
+    margin-left: 140px;
+    margin-top: 60px;
+
+}

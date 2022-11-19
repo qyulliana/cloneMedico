@@ -1,0 +1,14 @@
+.usuarioContainer{
+    margin-left: 140px;
+    margin-top: 60px;
+}
+
+.usuarioTitle{
+    color: #214B8B;
+    font-size: 26px;
+}
+.usuarioContainerLinks{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}

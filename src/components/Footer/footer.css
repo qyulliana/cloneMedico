@@ -1,0 +1,25 @@
+.containerFooter {
+    height: 260px;
+    background-color: #0456CB;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 60px;
+
+
+}
+
+.footerLinksContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.footerLinks{
+    color: white;
+}
+
+.paragraphFooter{
+    color: white;
+}

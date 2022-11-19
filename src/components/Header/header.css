@@ -1,0 +1,56 @@
+.headerContainer{
+    display: flex;
+    justify-content: space-evenly;
+    height: 160px;
+    align-items: center;
+}
+
+.headerContainerForm{
+
+
+}
+
+.HeaderLinks{
+    display: flex;
+    flex-direction: row;
+}
+
+.HeaderLinks a {
+    font-size: 12px;
+    margin-right: 10px;
+    cursor: pointer;
+    margin-top: 11px;
+}
+
+input{
+    display: block;
+    width: 100%;
+    font-size: 1em;
+    padding: 5px 10px 7px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 3px;
+    margin-top: 4px;
+    outline: none;
+}
+
+.headerInputPassword{
+    max-width: 85px;
+}
+
+.headerButton{
+    height: 34px;
+    padding: 7px 15px 10px 15px;
+    margin-top: 3px;
+    color: white;
+    background-color: #224C8B;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.headerContainerInputs{
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+}
